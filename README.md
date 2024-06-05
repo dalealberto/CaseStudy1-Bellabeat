@@ -3,6 +3,8 @@
 
 [Full study](https://dalealberto.github.io/CaseStudy1-Bellabeat/): (15-20 min read)
 
+--------------------------------------------------------------------------------------------------------------------------
+
 [Files](https://github.com/dalealberto/CaseStudy1-Bellabeat/tree/main/Files): (Includes both raw and cleaned files)
 
 [Glossary](https://github.com/dalealberto/Case_Study_GDA/tree/main/Python): (I used Python to automate the sorting and modification of the course glossary)
