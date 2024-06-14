@@ -12,4 +12,4 @@
 --------------------------------------------------------------------------------------------------------------------------
 #### Other
 
-[Tableau](https://public.tableau.com/app/profile/david.alberto3632/vizzes): My public profile showcasing my visualization skills
+[Tableau](https://public.tableau.com/app/profile/david.alberto3632/vizzes): My public profile showcasing my visualization skills (Ex: [dashboard](https://public.tableau.com/app/profile/david.alberto3632/viz/ProfitDashboard_17170917977810/ProfitDashboard), [charts](https://public.tableau.com/app/profile/david.alberto3632/viz/GDACapstone_17170287856030/Dashboard1))
