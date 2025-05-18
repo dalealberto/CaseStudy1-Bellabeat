@@ -9,19 +9,20 @@ I can now review the terms and definitions used in the course either alphabetica
 The document GDA_Course_1_Week_3_Glossary includes a cumulative list of all terminology learned up to this point in the course.
 
 You may notice:
-	- **Duplicate entries** of some terms across different course weeks.
- 	- **Slight variations** in definitions as the course content becomes more refined.
+
+- **Duplicate entries** of some terms across different course weeks.
+- **Slight variations** in definitions as the course content becomes more refined.
 
 Example:
-	- Course 1 Week 1: "Data analyst: Someone who collects, transforms, and organizes data in order to drive informed decision-making."
-	- Course 1 Week 2: "Data analyst: Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making."
+- Course 1 Week 1: "Data analyst: Someone who collects, transforms, and organizes data in order to drive informed decision-making."
+- Course 1 Week 2: "Data analyst: Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making."
 
 To avoid confusion and maintain clarity:
-	- I’ve updated earlier definitions with the most recent and complete version.
- 	- I’ve kept the original course/week label from when the term was first introduced.
+- I’ve updated earlier definitions with the most recent and complete version.
+- I’ve kept the original course/week label from when the term was first introduced.
 
 Final Entry:
-	- Data analyst: Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making (Course 1 Week 1)
+- Data analyst: Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making (Course 1 Week 1)
 
 ### Methodology:
 1. extract the glossary from the Google Data Analytics course 
