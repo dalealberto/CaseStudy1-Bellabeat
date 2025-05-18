@@ -4,8 +4,7 @@
 
 I can now review the terms and definitions used in the course either alphabetically or in order of appearance.
 
-
-
+<br><br>
 
 ### Context:
 
