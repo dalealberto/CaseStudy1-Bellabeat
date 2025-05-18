@@ -4,6 +4,9 @@
 
 I can now review the terms and definitions used in the course either alphabetically or in order of appearance.
 
+
+
+
 ### Context:
 
 The document GDA_Course_1_Week_3_Glossary includes a cumulative list of all terminology learned up to this point in the course.
