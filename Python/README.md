@@ -11,7 +11,7 @@
 
 I can now review the terms and definitions used in the course either alphabetically or in order of appearance.
 
-Rationale:
+### Rationale:
 
 Document 'GDA_Course_1_Week_3_Glossary' contains the list of all terminology learned "so far."
 This means that there will be duplicate entries of phrases and definitions in every preceeding and subsequent document.In addition, there are duplicate phrases but the definitions are slightly tweaked for improvement.
