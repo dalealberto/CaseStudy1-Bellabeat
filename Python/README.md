@@ -7,7 +7,11 @@
  
 	- course week ([Result](https://github.com/dalealberto/Case_Study_GDA/blob/main/GDA_Glossary_Sorted_By_Course_Week.txt)) ([Python Code](https://github.com/dalealberto/CaseStudy1-Bellabeat/blob/main/Python/GDA_Glossary_Sorted_Course_Week.py))
 
-### Rationale:
+### Impact:
+
+I can now review the terms and definitions used in the course either alphabetically or in order of appearance.
+
+Rationale:
 
 Document 'GDA_Course_1_Week_3_Glossary' contains the list of all terminology learned "so far."
 This means that there will be duplicate entries of phrases and definitions in every preceeding and subsequent document.In addition, there are duplicate phrases but the definitions are slightly tweaked for improvement.
