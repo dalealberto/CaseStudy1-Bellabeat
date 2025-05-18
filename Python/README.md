@@ -26,6 +26,8 @@ To avoid confusion and maintain clarity:
 Final Entry:
 - Data analyst: Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making (Course 1 Week 1)
 
+<br><br>
+
 ### Methodology:
 1. extract the glossary from the Google Data Analytics course 
 2. automate the process of writing which Course and Week the term was first introduced (Ex: adding 'Course # Week #')
