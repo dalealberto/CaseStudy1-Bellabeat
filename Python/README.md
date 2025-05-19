@@ -14,6 +14,8 @@ I can now review the terms and definitions used in the course either alphabetica
  
 	- course week ([Result](https://github.com/dalealberto/Case_Study_GDA/blob/main/GDA_Glossary_Sorted_By_Course_Week.txt)) ([Python Code](https://github.com/dalealberto/CaseStudy1-Bellabeat/blob/main/Python/GDA_Glossary_Sorted_Course_Week.py))
 
+<br><br>
+
 ### Context:
 
 The document GDA_Course_1_Week_3_Glossary includes a cumulative list of all terminology I've learned up to this point in the course.
@@ -34,6 +36,5 @@ To avoid confusion and maintain clarity:
 Final Entry:
 - "Data analyst: Someone who collects, transforms, and organizes data in order to draw conclusions, make predictions, and drive informed decision-making (Course 1 Week 1)"
 
-<br><br>
 
 
